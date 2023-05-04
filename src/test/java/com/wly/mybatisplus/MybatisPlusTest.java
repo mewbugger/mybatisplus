@@ -116,6 +116,9 @@ public class MybatisPlusTest {
         System.out.println("hhh");
         System.out.println("hot-fix");
         System.out.println("master冲突分支测试");
+        System.out.println("hot-fix冲突分支测试");
 
     }
+
+
 }
