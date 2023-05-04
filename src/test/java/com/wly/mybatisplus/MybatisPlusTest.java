@@ -113,6 +113,7 @@ public class MybatisPlusTest {
         Map<String, Object> map = userMapper.selectMapById(1L);
         System.out.println(map);
         System.out.println("hh");
+        System.out.println("hhh");
 
     }
 
