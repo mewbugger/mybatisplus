@@ -112,6 +112,9 @@ public class MybatisPlusTest {
     public void testCustomSelect(){
         Map<String, Object> map = userMapper.selectMapById(1L);
         System.out.println(map);
+        System.out.println("hh");
 
     }
+
+
 }
